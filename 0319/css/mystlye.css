@@ -7,7 +7,7 @@
 }
 
 #1 img {
-    border: thick groove #46498A;
+    border: thick dashed #46498A;
     text-align: center;
     -webkit-box-shadow: 0px 20px #C13F42;
     box-shadow: 0px 20px #C13F42;
